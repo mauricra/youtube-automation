@@ -1,0 +1,6 @@
+# YouTube Automation Pipeline — dependencias
+# Requiere ffmpeg instalado en el sistema (lo instala el setup script del entorno)
+
+requests>=2.31.0
+google-auth>=2.28.0
+google-api-python-client>=2.120.0
